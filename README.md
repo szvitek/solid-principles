@@ -6,6 +6,12 @@ L — Liskov substitution principle
 I — Interface segregation principle
 D — Dependency Inversion principle
 
+## Useful links:
+
+- [SOLID 1](https://dev.to/ryosuke/solid-principles-tutorial-with-nodejs-1khf)
+- [SOLID 2](https://dev.to/ruben_alapont/solid-principles-series-understanding-the-single-responsibility-principle-srp-in-nodejs-with-typescript-57e8)
+- [SOLID 3](https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0)
+
 ## 1 Single responsibility principle (SRP)
 
 A class should have one and only one reason to change, meaning that a class should only have one job.
